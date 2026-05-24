@@ -40,10 +40,8 @@ export const LandingPage = () => {
 
       {/* Top Navbar */}
       <header className="h-24 flex items-center justify-between px-6 md:px-12 border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
-        <div className="flex items-center gap-2">
-          <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-fintech-indigo to-fintech-cyan flex items-center justify-center shadow-lg shadow-indigo-500/25">
-            <ShieldCheck className="w-6 h-6 text-white" />
-          </div>
+        <div className="flex items-center gap-2.5">
+          <img src="/favicon.svg" alt="FraudShield AI Logo" className="w-9 h-9" />
           <span className="font-black text-xl tracking-wider bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
             FRAUD<span className="text-fintech-indigo">SHIELD</span> AI
           </span>

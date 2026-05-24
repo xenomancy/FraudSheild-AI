@@ -38,7 +38,7 @@ export const Sidebar = () => {
       {/* Mobile Header Menu Button */}
       <div className="lg:hidden fixed top-0 left-0 right-0 h-16 glass flex items-center justify-between px-6 z-40 border-b border-dark-border/40">
         <div className="flex items-center gap-2">
-          <ShieldCheck className="w-8 h-8 text-fintech-cyan animate-pulse-slow" />
+          <img src="/favicon.svg" alt="FraudShield AI Logo" className="w-7 h-7" />
           <span className="font-bold text-lg tracking-wider bg-gradient-to-r from-white via-slate-100 to-slate-400 bg-clip-text text-transparent">
             FRAUDSHIELD AI
           </span>
@@ -66,9 +66,8 @@ export const Sidebar = () => {
         ${isOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
         pt-6 lg:pt-6
       `}>
-        {/* Top Header Logo */}
         <div className="hidden lg:flex items-center gap-2 mb-4 px-2">
-          <ShieldCheck className="w-9 h-9 text-fintech-cyan animate-pulse-slow" />
+          <img src="/favicon.svg" alt="FraudShield AI Logo" className="w-8 h-8" />
           <span className="font-bold text-xl tracking-wider bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
             FRAUD<span className="text-fintech-indigo">SHIELD</span>
           </span>
