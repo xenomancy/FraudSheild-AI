@@ -1,6 +1,6 @@
 # FraudShield AI — Enterprise Real-Time ML Fraud Prevention Platform
 
-[![Live Website](https://img.shields.io/badge/Live_Demo-FraudShield_AI-6366f1?style=for-the-badge&logo=vercel)](https://fraud-sheild-ai.vercel.app)
+[![Live Website](https://img.shields.io/badge/Live_Demo-FraudShield_AI-6366f1?style=for-the-badge&logo=render)](https://fraudshield-frontend-421o.onrender.com/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-8b5cf6?style=for-the-badge&logo=github)](https://github.com/xenomancy/FraudSheild-AI)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-06b6d4?style=for-the-badge&logo=python)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-059669?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
@@ -12,7 +12,7 @@
 
 ## 🔗 Live Application Link
 🚀 Explore the fully interactive system live on the web:
-👉 **[https://fraud-sheild-ai.vercel.app](https://fraud-sheild-ai.vercel.app)**  
+👉 **[https://fraudshield-frontend-421o.onrender.com/](https://fraudshield-frontend-421o.onrender.com/)**  
 *(Equipped with credentials-free Sandbox Quick Guest Bypass, interactive real-time simulators, and pre-seeded analytical charts).*
 
 ---
