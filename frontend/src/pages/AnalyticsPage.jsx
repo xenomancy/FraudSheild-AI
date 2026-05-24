@@ -444,7 +444,7 @@ export const AnalyticsPage = () => {
                   <Workflow className="w-4 h-4 text-fintech-cyan" />
                 </div>
                 <p className="text-[10px] text-slate-500 leading-normal">
-                  Our pipeline automatically balances dataset imbalance across categories to minimize missed occurrences, targeting >0.90 Precision/Recall.
+                  Our pipeline automatically balances dataset imbalance across categories to minimize missed occurrences, targeting &gt;0.90 Precision/Recall.
                 </p>
               </div>
             </div>
